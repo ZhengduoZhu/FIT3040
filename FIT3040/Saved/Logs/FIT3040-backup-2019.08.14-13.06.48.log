@@ -1,0 +1,1023 @@
+﻿Log file open, 08/14/19 23:01:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FIT3040
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.260782
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX TITAN X
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: f:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.14-13.01.26:431][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.14-13.01.26:431][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.14-13.01.26:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:431][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.14-13.01.26:431][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.14-13.01.26:432][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:432][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:438][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:438][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-13.01.26:438][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-13.01.26:438][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:438][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.14-13.01.26:438][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:438][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-13.01.26:438][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-13.01.26:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-13.01.26:439][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-13.01.26:439][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-13.01.26:439][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.14-13.01.26:450][  0]LogHAL: Display: Platform has ~ 32 GB [34289971200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.14-13.01.26:450][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.14-13.01.26:450][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.14-13.01.26:450][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.14-13.01.26:451][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.08.14-13.01.26:451][  0]LogInit: Computer: DESKTOP-UN0U44O
+[2019.08.14-13.01.26:451][  0]LogInit: User: ASUSZ170k
+[2019.08.14-13.01.26:451][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.14-13.01.26:451][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.14-13.01.26:451][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.08.14-13.01.26:451][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.14-13.01.26:451][  0]LogMemory: Process Physical Memory: 97.27 MB used, 97.28 MB peak
+[2019.08.14-13.01.26:451][  0]LogMemory: Process Virtual Memory: 96.40 MB used, 96.40 MB peak
+[2019.08.14-13.01.26:451][  0]LogMemory: Physical Memory: 4176.55 MB used,  28524.91 MB free, 32701.46 MB total
+[2019.08.14-13.01.26:451][  0]LogMemory: Virtual Memory: 4664.63 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.08.14-13.01.26:474][  0]LogInit: Using OS detected language (en-US).
+[2019.08.14-13.01.26:474][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.08.14-13.01.26:475][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.14-13.01.26:612][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.14-13.01.26:651][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.14-13.01.26:651][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.14-13.01.26:855][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.08.14-13.01.26:855][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.14-13.01.26:906][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX TITAN X' (Feature Level 11_0)
+[2019.08.14-13.01.26:906][  0]LogD3D11RHI:       12238/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.14-13.01.26:908][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.14-13.01.26:908][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.14-13.01.26:908][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.14-13.01.26:914][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.14-13.01.26:914][  0]LogD3D11RHI:     GPU DeviceId: 0x17c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.14-13.01.26:914][  0]LogWindows: EnumDisplayDevices:
+[2019.08.14-13.01.26:914][  0]LogWindows:    0. 'NVIDIA GeForce GTX TITAN X' (P:1 D:1)
+[2019.08.14-13.01.26:914][  0]LogWindows:    1. 'NVIDIA GeForce GTX TITAN X' (P:0 D:1)
+[2019.08.14-13.01.26:914][  0]LogWindows:    2. 'NVIDIA GeForce GTX TITAN X' (P:0 D:0)
+[2019.08.14-13.01.26:914][  0]LogWindows:    3. 'NVIDIA GeForce GTX TITAN X' (P:0 D:0)
+[2019.08.14-13.01.26:915][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.14-13.01.26:915][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX TITAN X
+[2019.08.14-13.01.26:915][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.08.14-13.01.26:915][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.08.14-13.01.26:915][  0]LogRHI: Texture pool is 8567 MB (70% of 12238 MB)
+[2019.08.14-13.01.26:946][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.14-13.01.26:960][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-13.01.26:960][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-13.01.26:960][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.14-13.01.26:968][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.14-13.01.27:336][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.14-13.01.27:347][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.14-13.01.27:358][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.14-13.01.27:368][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.14-13.01.27:379][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.14-13.01.27:389][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.14-13.01.27:400][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.14-13.01.27:412][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.14-13.01.27:417][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.14-13.01.27:485][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.14-13.01.27:486][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.14-13.01.27:532][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.14-13.01.27:532][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.14-13.01.27:552][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.14-13.01.27:552][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.14-13.01.27:562][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.14-13.01.27:572][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.14-13.01.27:583][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.14-13.01.27:593][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.14-13.01.27:631][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.14-13.01.27:631][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.14-13.01.27:631][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.14-13.01.27:637][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.14-13.01.27:666][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Intermediate/Shaders/WorkingDirectory/7316/).
+[2019.08.14-13.01.27:666][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS Z170-k/AppData/Local/Temp/UnrealShaderWorkingDir/3E4DCFC04F61917CDB11439F7E86B185/'.
+[2019.08.14-13.01.27:667][  0]LogXGEController: Cleaning working directory: C:/Users/ASUS Z170-k/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.14-13.01.27:667][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.14-13.01.27:667][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.14-13.01.27:667][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.14-13.01.28:149][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.14-13.01.28:193][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.14-13.01.28:193][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.14-13.01.28:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.14-13.01.28:193][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.14-13.01.28:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-13.01.28:193][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.14-13.01.28:204][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.14-13.01.28:204][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.14-13.01.28:204][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.14-13.01.28:216][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.14-13.01.28:216][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.14-13.01.28:216][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.14-13.01.28:235][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.14-13.01.28:235][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.14-13.01.28:236][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.14-13.01.28:318][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2019.08.14-13.01.28:609][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.14-13.01.28:716][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.14-13.01.28:716][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.14-13.01.28:716][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.14-13.01.28:716][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.14-13.01.28:716][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.14-13.01.28:725][  0]LogNetVersion: FIT3040 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2241707757)
+[2019.08.14-13.01.29:055][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031258 seconds
+[2019.08.14-13.01.29:060][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.14-13.01.29:060][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.14-13.01.29:060][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.14-13.01.29:827][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.14-13.01.29:839][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.14-13.01.29:933][  0]SourceControl: Source control is disabled
+[2019.08.14-13.01.29:933][  0]SourceControl: Source control is disabled
+[2019.08.14-13.01.29:935][  0]SourceControl: Source control is disabled
+[2019.08.14-13.01.29:936][  0]SourceControl: Source control is disabled
+[2019.08.14-13.01.29:943][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.14-13.01.29:944][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.14-13.01.29:995][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.14-13.01.30:209][  0]LogOcInput: OculusInput pre-init called
+[2019.08.14-13.01.30:864][  0]LogEngine: Initializing Engine...
+[2019.08.14-13.01.30:865][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.08.14-13.01.30:866][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.14-13.01.31:038][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.14-13.01.31:045][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.14-13.01.31:152][  0]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-13.01.31:234][  0]LogInit: FAudioDevice initialized.
+[2019.08.14-13.01.31:235][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.14-13.01.31:286][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.14-13.01.31:296][  0]LogInit: Texture streaming: Enabled
+[2019.08.14-13.01.31:307][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.14-13.01.31:307][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={B978FAA1-4BB5-2DFA-28EE-73A5327606CA}
+[2019.08.14-13.01.31:320][  0]LogInit: Transaction tracking system initialized
+[2019.08.14-13.01.31:334][  0]BlueprintLog: New page: Editor Load
+[2019.08.14-13.01.31:382][  0]LocalizationService: Localization service is disabled
+[2019.08.14-13.01.31:475][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.14-13.01.31:476][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.08.14-13.01.31:610][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.14-13.01.31:610][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.14-13.01.31:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/' took 0.02s
+[2019.08.14-13.01.31:748][  0]SourceControl: Source control is disabled
+[2019.08.14-13.01.31:748][  0]Cmd: MAP LOAD FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.14-13.01.31:748][  0]LightingResults: New page: Lighting Build
+[2019.08.14-13.01.31:750][  0]MapCheck: New page: Map Check
+[2019.08.14-13.01.31:750][  0]LightingResults: New page: Lighting Build
+[2019.08.14-13.01.31:772][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.08.14-13.01.32:485][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-13.01.32:497][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.14-13.01.32:521][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.08.14-13.01.32:521][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.14-13.01.32:521][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.08.14-13.01.32:521][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.773
+[2019.08.14-13.01.32:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-13.01.32:628][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-13.01.32:634][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-13.01.32:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-13.01.32:644][  0]LogCollectionManager: Loaded 0 collections in 0.001014 seconds
+[2019.08.14-13.01.32:659][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Collections/' took 0.01s
+[2019.08.14-13.01.32:659][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/Developers/ASUSZ170k/Collections/' took 0.00s
+[2019.08.14-13.01.32:659][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/Collections/' took 0.00s
+[2019.08.14-13.01.32:659][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.14-13.01.32:666][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2732 classes and 659 folders.
+[2019.08.14-13.01.32:670][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.14-13.01.32:671][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:675][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:681][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.14-13.01.32:720][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.14-13.01.32:724][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.08.14-13.01.32:789][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.14-13.01.32:790][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.14-13.01.32:794][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.14-13.01.32:847][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.08.14-13.01.32:978][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.14-13.01.32:978][  0]LogLoad: (Engine Initialization) Total time: 8.37 seconds
+[2019.08.14-13.01.32:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.14-13.01.33:016][  0]LogAssetRegistry: Asset discovery search completed in 4.7211 seconds
+[2019.08.14-13.01.33:018][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.14-13.01.33:018][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.08.14-13.01.33:019][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.14-13.01.33:049][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-13.01.34:003][110]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.14-13.01.35:539][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.14-13.01.35:626][302]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/ZhengduoZhu/Character/TwinSwords/ABP_TwinSwords.ABP_TwinSwords
+[2019.08.14-13.01.35:636][302]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.14-13.01.35:794][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-13.01.35:796][302]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.08.14-13.01.35:990][302]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2019.08.14-13.01.36:676][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-13.01.36:873][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/TwinSwords/TwinSwords.TwinSwords
+[2019.08.14-13.01.37:192][302]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.37:194][302]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.08.14-13.01.37:202][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-13.01.37:224][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-13.01.37:450][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/Enemy/SampleEnemy.SampleEnemy
+[2019.08.14-13.01.37:724][302]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/WMAnimation/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.14-13.01.37:732][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-13.01.37:754][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-13.01.37:916][302]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/WMAnimation/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2019.08.14-13.01.37:925][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.08.14-13.01.37:947][302]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.08.14-13.01.38:119][302]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/TwinSwords/Blueprint/DT_HeaveyHitUpLauncher.DT_HeaveyHitUpLauncher
+[2019.08.14-13.01.38:383][302]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/WMAnimation/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.SK_Mannequin_PhysicsAsset
+[2019.08.14-13.01.38:389][302]LogBlueprintActionDatabase: Requesting refresh due to module change: PhysicsAssetEditor (loaded)
+[2019.08.14-13.01.38:390][302]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2019.08.14-13.01.38:400][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2019.08.14-13.01.38:605][302]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/ZhengduoZhu/Effect/BaseShap/Trail02.Trail02
+[2019.08.14-13.01.38:610][302]LogBlueprintActionDatabase: Requesting refresh due to module change: Cascade (loaded)
+[2019.08.14-13.01.38:610][302]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0002 seconds. Added 2 classes and 2 folders.
+[2019.08.14-13.01.38:637][302]LogBlueprintActionDatabase: Requesting refresh due to module change: DistCurveEditor (loaded)
+[2019.08.14-13.01.38:953][302]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.39:177][302]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.14-13.01.39:326][303]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.39:326][303]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.39:326][303]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.39:327][303]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.39:440][305]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.39:441][305]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.39:563][315]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.39:929][349]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.40:224][382]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.40:232][383]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.40:300][390]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.40:300][390]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.40:345][395]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.40:396][401]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.40:555][418]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.41:194][433]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.14-13.01.41:221][434]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.14-13.01.41:302][440]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.41:603][465]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.41:603][465]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.41:675][471]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.41:675][471]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.41:722][475]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.41:768][479]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.41:978][493]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.42:296][522]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.42:593][553]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.42:602][554]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.42:674][562]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.42:674][562]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.42:712][566]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.42:768][571]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.42:931][576]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.08.14-13.01.42:951][578]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.43:295][615]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.43:599][649]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.43:610][650]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.43:671][654]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.43:671][654]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.43:710][655]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:83).
+[2019.08.14-13.01.43:723][656]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.43:767][661]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.43:783][663]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.08.14-13.01.43:919][679]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.46:051][913]LogSlate: Window 'SK_Mannequin_PhysicsAsset' being destroyed
+[2019.08.14-13.01.46:733][988]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.47:033][ 20]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.47:033][ 20]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.47:099][ 28]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.47:099][ 28]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.47:141][ 33]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.47:191][ 39]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.47:350][ 58]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.47:733][104]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.48:033][140]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.48:033][140]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.48:099][148]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.48:099][148]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.48:141][153]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.48:191][159]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.48:350][178]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.48:733][224]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.49:033][260]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.49:033][260]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.49:099][268]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.49:099][268]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.49:141][273]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.49:191][279]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.49:350][298]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.49:733][344]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.50:024][379]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.50:032][380]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.50:099][388]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.50:099][388]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.50:141][393]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.50:191][399]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.50:350][418]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.50:733][464]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.51:024][499]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.51:033][500]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.51:106][508]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.51:106][508]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.51:148][513]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.51:198][519]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.51:348][537]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.51:725][582]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.01.52:025][618]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.52:034][619]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.52:100][627]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.52:100][627]LogParticles: Warning: Trail Notify: Null PSTemplate for trail notify in anim: /Game/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.M_TS_AirCombo01
+[2019.08.14-13.01.52:141][632]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.52:192][638]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.01.52:350][657]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.02.22:680][238]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.08.14-13.02.22:746][238]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/M_TS_AirCombo01A01FD6644A554F1FC1207CB00F256584.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo01.uasset'
+[2019.08.14-13.02.24:846][470]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.14-13.02.24:865][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-13.02.24:865][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.14-13.02.24:866][470]PIE: New page: PIE session: ThirdPersonExampleMap (2019年8月15日 上午9:02:24)
+[2019.08.14-13.02.24:878][470]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.08.14-13.02.24:891][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012690s)
+[2019.08.14-13.02.24:891][470]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.14-13.02.24:892][470]LogPlayLevel: PIE: World Init took: (0.000709s)
+[2019.08.14-13.02.24:892][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013918s)
+[2019.08.14-13.02.24:931][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.14-13.02.25:009][470]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.14-13.02.25:057][470]LogInit: FAudioDevice initialized.
+[2019.08.14-13.02.25:063][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-13.02.25:108][470]LogLoad: Game class is 'MyGameMode_C'
+[2019.08.14-13.02.25:111][470]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.08.14-23.02.25
+[2019.08.14-13.02.25:112][470]LogWorld: Bringing up level for play took: 0.003910
+[2019.08.14-13.02.25:126][470]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.08.14-13.02.25:127][470]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.08.14-13.02.25:127][470]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.08.14-13.02.25:131][470]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.061
+[2019.08.14-13.02.25:131][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-13.02.25:400][472]LogRenderer: Reallocating scene render targets to support 1272x884 Format 10 NumSamples 1 (Frame:1).
+[2019.08.14-13.02.41:426][826]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.41:486][831]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.43:904][ 44]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.43:972][ 50]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.44:761][119]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.46:605][282]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.46:661][287]LogBlueprintUserMessages: [TwinSwords_C_0] Do DMG
+[2019.08.14-13.02.48:763][473]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-13.02.48:764][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.14-13.02.48:777][473]LogSlate: Window 'FIT3040 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.14-13.02.48:808][473]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.14-13.02.48:809][473]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.08.14-13.02.48:884][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.08.14-13.02.48:898][474]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.08.14-13.02.57:185][452]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.57:196][453]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.57:205][454]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.57:343][471]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.57:616][503]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.58:041][554]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.58:789][636]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.58:916][652]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.58:925][653]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.02.58:956][656]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.58:958][657]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.58:966][657]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.02.59:346][703]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.00:087][792]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.00:513][843]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.01:254][932]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.01:680][983]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.02:421][ 72]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.02:848][123]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.03:590][212]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.04:015][263]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.04:756][350]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.05:182][401]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.05:925][490]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.06:349][541]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.07:092][630]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.07:516][681]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.08:260][770]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.08:676][820]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.09:426][910]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.09:843][960]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.03.22:164][437]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.08.14-13.04.25:312][980]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:318][980]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:345][984]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:418][992]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:421][993]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:427][993]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:757][ 33]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:760][ 33]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.25:760][ 33]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:765][ 34]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.25:765][ 34]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.25:769][ 34]LogBlueprintUserMessages: [None] HeaveyHitLauncherCastFailed!
+[2019.08.14-13.04.26:350][103]LogBlueprintUserMessages: [None] HeaveyHitLauncherCastFailed!
+[2019.08.14-13.04.26:375][106]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.26:375][106]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.26:394][109]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.26:394][109]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.26:401][109]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.26:401][109]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.26:720][147]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.26:720][147]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.26:727][148]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.26:727][148]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.26:956][176]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.26:956][176]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.26:962][176]LogBlueprintUserMessages: [None] HeaveyHitLauncherCastFailed!
+[2019.08.14-13.04.27:843][282]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.27:967][290]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.28:000][294]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.28:091][305]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.28:178][316]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.28:245][324]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.28:337][335]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.28:428][346]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.29:060][421]LogBlueprintUserMessages: [None] HeaveyHitLauncherCastFailed!
+[2019.08.14-13.04.29:109][427]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.29:110][427]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.29:118][428]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.29:118][428]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.29:125][429]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.29:126][429]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.29:845][516]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.29:912][524]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.30:004][535]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.30:087][545]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.31:513][716]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.31:579][724]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.31:671][735]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.31:754][745]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.33:180][916]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.33:247][924]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.33:339][935]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.33:422][945]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.34:848][115]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.34:915][123]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.35:006][134]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.35:089][144]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.36:507][313]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.36:582][322]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.36:666][332]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.36:757][343]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.38:179][506]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.38:248][514]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.38:333][524]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.38:349][526]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:349][526]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:358][526]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:358][526]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:380][529]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:380][529]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:385][529]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:385][529]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:394][530]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:394][530]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:402][531]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:402][531]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:404][532]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.38:404][532]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.38:412][532]LogBlueprintUserMessages: [None] HeaveyHitLauncherCastFailed!
+[2019.08.14-13.04.38:422][534]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.39:846][703]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.39:912][711]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.40:004][722]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.40:088][732]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.40:386][767]LogBlueprintUserMessages: [None] HeaveyHitLauncherCastFailed!
+[2019.08.14-13.04.40:402][769]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.40:402][769]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.40:412][770]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.40:412][770]LogBlueprintUserMessages: [None] UntouchableCastFailed!
+[2019.08.14-13.04.40:838][821]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.41:017][843]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.41:292][875]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.41:403][882]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:420][884]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:444][887]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:501][894]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:606][907]LogBlueprintUserMessages: [DebugSkelMeshComponent_1] NotifyStateError
+[2019.08.14-13.04.41:614][908]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.04.41:697][918]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:738][923]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:763][926]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.41:822][933]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.42:039][959]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.04.42:780][ 48]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.04.42:863][ 58]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.42:905][ 63]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.42:930][ 66]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.42:988][ 73]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.43:205][ 99]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.04.43:947][188]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.04.44:030][198]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.44:072][203]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.44:097][206]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.44:157][213]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.04.44:366][238]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.13:357][661]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.13:357][661]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.13:357][661]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.13:365][662]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.13:423][669]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.13:639][695]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.14:381][784]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.14:464][794]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.14:506][799]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.14:531][802]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.14:589][809]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.14:806][835]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.15:551][924]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.15:635][934]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.15:668][938]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.15:693][941]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.15:751][948]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.15:968][974]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.16:713][ 63]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.05.16:797][ 73]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.16:839][ 78]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.16:864][ 81]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.16:922][ 88]LogBlueprintUserMessages: [None] NotifyStateToggleCollisionCastFailed!
+[2019.08.14-13.05.17:139][114]LogBlueprintUserMessages: [DebugSkelMeshComponent_0] NotifyStateError
+[2019.08.14-13.06.02:919][585]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/ZhengduoZhu/Effect/BaseShap/Trail16.Trail16
+[2019.08.14-13.06.10:089][428]LogCascade: Quitting Cascade. FXSystem=0x0000022B613CC4C0
+[2019.08.14-13.06.39:980][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.08.14-13.06.40:044][936]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/M_TS_AirCombo02F7A1F383422284314BAED3A5BF0D62A6.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Character/TwinSwords/Montage/M_TS_AirCombo02.uasset'
+[2019.08.14-13.06.46:872][737]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.08.14-13.06.46:873][737]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.08.14-13.06.48:159][737]LogWindows: Error: === Critical error: ===
+[2019.08.14-13.06.48:159][737]LogWindows: Error: 
+[2019.08.14-13.06.48:159][737]LogWindows: Error: Assertion failed: Event.NotifyStateClass [File:D:\Build\++UE4\Sync\Engine\Source\Editor\Persona\Private\SAnimTimingPanel.cpp] [Line: 555] 
+[2019.08.14-13.06.48:159][737]LogWindows: Error: 
+[2019.08.14-13.06.48:159][737]LogWindows: Error: 
+[2019.08.14-13.06.48:159][737]LogWindows: Error: 
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc7f9d9129 KERNELBASE.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc3b1b1f37 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc3b1b46e7 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc3afc7d1a UE4Editor-Core.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc3af4fe33 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc3af504d0 UE4Editor-Core.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc072bb334 UE4Editor-Persona.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc0729b1ca UE4Editor-Persona.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc073deb2b UE4Editor-Persona.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc073f4ad1 UE4Editor-Persona.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2268f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc0741c376 UE4Editor-Persona.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc37b2479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc37b2479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc37b2479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc37b2479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:159][737]LogWindows: Error: [Callstack] 0x00007ffc64b22571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc37b28b3d UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b22571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc37b2479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc37b2479e UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b22571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc37b29354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc37b29354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc37b29354 UE4Editor-Slate.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b22571 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b21c41 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b24bc5 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b226d4 UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: [Callstack] 0x00007ffc64b2419f UE4Editor-SlateCore.dll!UnknownFunction []
+[2019.08.14-13.06.48:160][737]LogWindows: Error: 
+[2019.08.14-13.06.48:170][737]LogExit: Executing StaticShutdownAfterError
+[2019.08.14-13.06.48:173][737]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.08.14-13.06.48:177][737]Log file closed, 08/14/19 23:06:48
