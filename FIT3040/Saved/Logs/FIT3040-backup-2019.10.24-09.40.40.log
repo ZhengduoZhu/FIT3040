@@ -1,0 +1,1627 @@
+﻿Log file open, 10/24/19 20:09:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FIT3040
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.302960
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX TITAN X
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: f:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:287][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.24-09.09.29:287][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.24-09.09.29:288][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:288][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:294][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.24-09.09.29:294][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.24-09.09.29:295][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:296][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.24-09.09.29:296][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.24-09.09.29:296][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.24-09.09.29:296][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.24-09.09.29:321][  0]LogHAL: Display: Platform has ~ 32 GB [34289971200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.24-09.09.29:321][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.24-09.09.29:321][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.24-09.09.29:321][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Scalability.ini]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.24-09.09.29:322][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.24-09.09.29:327][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.24-09.09.29:327][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.24-09.09.29:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Config/Windows/Engine.ini]
+[2019.10.24-09.09.29:327][  0]LogInit: Computer: 终极蛇皮
+[2019.10.24-09.09.29:327][  0]LogInit: User: ASUSZ170k
+[2019.10.24-09.09.29:327][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.24-09.09.29:327][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.24-09.09.29:327][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.24-09.09.29:327][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.24-09.09.29:327][  0]LogMemory: Process Physical Memory: 99.63 MB used, 99.63 MB peak
+[2019.10.24-09.09.29:327][  0]LogMemory: Process Virtual Memory: 97.24 MB used, 97.24 MB peak
+[2019.10.24-09.09.29:327][  0]LogMemory: Physical Memory: 6753.34 MB used,  25948.13 MB free, 32701.46 MB total
+[2019.10.24-09.09.29:327][  0]LogMemory: Virtual Memory: 4664.59 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.10.24-09.09.29:472][  0]LogInit: Using OS detected language (en-US).
+[2019.10.24-09.09.29:472][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.10.24-09.09.29:472][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.24-09.09.29:676][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.24-09.09.29:740][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.24-09.09.29:740][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.24-09.09.31:556][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.10.24-09.09.31:556][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.24-09.09.31:612][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX TITAN X' (Feature Level 11_0)
+[2019.10.24-09.09.31:612][  0]LogD3D11RHI:       12238/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.24-09.09.31:613][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.24-09.09.31:613][  0]LogD3D11RHI:       0/0/16350 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.24-09.09.31:613][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.24-09.09.31:621][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.24-09.09.31:621][  0]LogD3D11RHI:     GPU DeviceId: 0x17c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.24-09.09.31:621][  0]LogWindows: EnumDisplayDevices:
+[2019.10.24-09.09.31:621][  0]LogWindows:    0. 'NVIDIA GeForce GTX TITAN X' (P:0 D:1)
+[2019.10.24-09.09.31:622][  0]LogWindows:    1. 'NVIDIA GeForce GTX TITAN X' (P:1 D:1)
+[2019.10.24-09.09.31:622][  0]LogWindows:    2. 'NVIDIA GeForce GTX TITAN X' (P:0 D:0)
+[2019.10.24-09.09.31:622][  0]LogWindows:    3. 'NVIDIA GeForce GTX TITAN X' (P:0 D:0)
+[2019.10.24-09.09.31:622][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.24-09.09.31:622][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX TITAN X
+[2019.10.24-09.09.31:622][  0]LogD3D11RHI:   Driver Version: 425.31 (internal:25.21.14.2531, unified:425.31)
+[2019.10.24-09.09.31:622][  0]LogD3D11RHI:      Driver Date: 4-9-2019
+[2019.10.24-09.09.31:623][  0]LogRHI: Texture pool is 8567 MB (70% of 12238 MB)
+[2019.10.24-09.09.31:656][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.24-09.09.31:659][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.24-09.09.31:659][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.24-09.09.31:659][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.24-09.09.31:667][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.10.24-09.09.32:222][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.24-09.09.32:242][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.24-09.09.32:262][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.24-09.09.32:282][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.24-09.09.32:306][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.24-09.09.32:326][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.24-09.09.32:348][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.24-09.09.32:371][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.24-09.09.32:387][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.24-09.09.32:476][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.24-09.09.32:477][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.24-09.09.32:487][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.24-09.09.32:565][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.24-09.09.32:565][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.24-09.09.32:595][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.24-09.09.32:595][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.24-09.09.32:616][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.24-09.09.32:636][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.24-09.09.32:657][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.24-09.09.32:689][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.24-09.09.32:741][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.24-09.09.32:741][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.24-09.09.32:741][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.24-09.09.32:789][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.24-09.09.32:990][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Intermediate/Shaders/WorkingDirectory/3832/).
+[2019.10.24-09.09.32:990][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS Z170-k/AppData/Local/Temp/UnrealShaderWorkingDir/71BA7D954F1145A5AE3D2D8B51EFE94F/'.
+[2019.10.24-09.09.32:991][  0]LogXGEController: Cleaning working directory: C:/Users/ASUS Z170-k/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.24-09.09.32:991][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.24-09.09.32:991][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.24-09.09.32:991][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.24-09.09.34:793][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.24-09.09.34:839][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.24-09.09.34:839][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.24-09.09.34:839][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.24-09.09.34:839][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.24-09.09.34:839][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.24-09.09.34:839][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.24-09.09.34:853][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.24-09.09.34:853][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.24-09.09.34:853][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.24-09.09.34:865][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.24-09.09.34:865][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.24-09.09.34:865][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.24-09.09.34:882][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.24-09.09.34:883][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.24-09.09.34:893][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.24-09.09.35:076][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2019.10.24-09.09.35:364][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.24-09.09.35:658][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.24-09.09.35:658][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.24-09.09.35:658][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.24-09.09.35:658][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.24-09.09.35:658][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.24-09.09.35:684][  0]LogNetVersion: FIT3040 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2241707757)
+[2019.10.24-09.09.36:452][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.039144 seconds
+[2019.10.24-09.09.36:457][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.24-09.09.36:457][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.24-09.09.36:457][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.24-09.09.38:863][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.24-09.09.38:885][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.24-09.09.39:137][  0]SourceControl: Source control is disabled
+[2019.10.24-09.09.39:137][  0]SourceControl: Source control is disabled
+[2019.10.24-09.09.39:151][  0]SourceControl: Source control is disabled
+[2019.10.24-09.09.39:162][  0]SourceControl: Source control is disabled
+[2019.10.24-09.09.39:196][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-09.09.39:197][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-09.09.39:572][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.24-09.09.39:950][  0]LogOcInput: OculusInput pre-init called
+[2019.10.24-09.09.40:727][  0]LogEngine: Initializing Engine...
+[2019.10.24-09.09.40:728][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2019.10.24-09.09.40:729][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.24-09.09.41:044][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.24-09.09.41:063][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.24-09.09.41:174][  0]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-09.09.41:226][  0]LogInit: FAudioDevice initialized.
+[2019.10.24-09.09.41:226][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.24-09.09.41:278][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/ASUS Z170-k/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.24-09.09.41:288][  0]LogInit: Texture streaming: Enabled
+[2019.10.24-09.09.41:334][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.24-09.09.41:375][  0]LogInit: Transaction tracking system initialized
+[2019.10.24-09.09.41:435][  0]BlueprintLog: New page: Editor Load
+[2019.10.24-09.09.41:703][  0]LocalizationService: Localization service is disabled
+[2019.10.24-09.09.41:978][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-09.09.41:978][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.10.24-09.09.42:306][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.24-09.09.42:306][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.24-09.09.42:745][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/' took 0.08s
+[2019.10.24-09.09.42:872][  0]SourceControl: Source control is disabled
+[2019.10.24-09.09.42:872][  0]Cmd: MAP LOAD FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.24-09.09.42:873][  0]LightingResults: New page: Lighting Build
+[2019.10.24-09.09.42:875][  0]MapCheck: New page: Map Check
+[2019.10.24-09.09.42:875][  0]LightingResults: New page: Lighting Build
+[2019.10.24-09.09.42:898][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.10.24-09.09.44:160][  0]LogLinker: Can't find file '/Game/ZhengduoZhu/InventorySystem02/Blueprint/ItemClasses/BP_Item'
+[2019.10.24-09.09.44:160][  0]LogLinker: Can't find file '/Game/ZhengduoZhu/InventorySystem02/Blueprint/ItemClasses/BP_Item'
+[2019.10.24-09.09.46:835][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_horizon_Color
+[2019.10.24-09.09.46:835][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_DomeColor
+[2019.10.24-09.09.46:872][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_BaseCloudColor
+[2019.10.24-09.09.46:872][  0]LoadErrors: Warning: Linear color curves now accurately handle RGB values > 1. If you were relying on HSV clamping, please update Curve_GoodSky_AllOverlayColor
+[2019.10.24-09.09.48:467][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.10.24-09.09.48:492][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.24-09.09.48:530][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2019.10.24-09.09.48:530][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.24-09.09.48:530][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2019.10.24-09.09.48:530][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.658
+[2019.10.24-09.09.48:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.09.48:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.09.48:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.09.48:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.09.48:703][  0]LogCollectionManager: Loaded 0 collections in 0.001080 seconds
+[2019.10.24-09.09.48:718][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Collections/' took 0.01s
+[2019.10.24-09.09.48:718][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/Developers/ASUSZ170k/Collections/' took 0.00s
+[2019.10.24-09.09.48:718][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/Collections/' took 0.00s
+[2019.10.24-09.09.48:718][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.10.24-09.09.48:725][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2732 classes and 659 folders.
+[2019.10.24-09.09.48:729][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-09.09.48:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:780][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:790][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:799][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:803][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:807][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:840][  0]LogTemp: IOS device listing is disabled (to many failed attempts)!
+[2019.10.24-09.09.48:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.24-09.09.48:972][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-09.09.48:987][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.24-09.09.49:080][  0]LogSlate: Took 0.005169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.24-09.09.49:085][  0]LogSlate: Took 0.003565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.24-09.09.49:092][  0]LogSlate: Took 0.003940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.24-09.09.49:193][  0]LogRenderer: Reallocating scene render targets to support 1060x596 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-09.09.49:342][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.24-09.09.49:342][  0]LogLoad: (Engine Initialization) Total time: 23.53 seconds
+[2019.10.24-09.09.49:342][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.24-09.09.49:431][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.24-09.09.49:434][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.09.49:490][  0]LogSlate: Took 0.003110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.24-09.09.49:584][  1]LogAssetRegistry: Asset discovery search completed in 14.5304 seconds
+[2019.10.24-09.09.49:587][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.24-09.09.49:587][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000052 seconds (updated 0 objects)
+[2019.10.24-09.09.50:541][  5]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.24-09.09.50:547][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Blueprint/MyGameMode.MyGameMode
+[2019.10.24-09.09.50:836][  5]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.10.24-09.09.51:657][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/TwinSwords/TwinSwords.TwinSwords
+[2019.10.24-09.09.51:988][  5]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/ZhengduoZhu/Character/Enemy/Monster/Montage/Dead_Montage.Dead_Montage
+[2019.10.24-09.09.52:017][  5]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2019.10.24-09.09.52:032][  5]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2019.10.24-09.09.52:032][  5]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.24-09.09.52:196][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.24-09.09.52:197][  5]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2019.10.24-09.09.52:197][  5]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.10.24-09.09.52:244][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.24-09.09.52:520][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/Enemy/Monster/Monster.Monster
+[2019.10.24-09.09.52:865][  5]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/ZhengduoZhu/Character/Enemy/Boss/Montage/M_Boss_Dead.M_Boss_Dead
+[2019.10.24-09.09.52:875][  5]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.24-09.09.52:909][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.10.24-09.09.53:187][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/Enemy/SampleEnemy.SampleEnemy
+[2019.10.24-09.09.53:520][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ZhengduoZhu/Character/Enemy/Monster/Notify/ANS_Monster_ToggleCollision.ANS_Monster_ToggleCollision
+[2019.10.24-09.09.54:195][  5]LogSlate: Took 0.003438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.24-09.09.54:640][  6]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/' took 5.27s
+[2019.10.24-09.09.54:674][  6]LogSlate: Took 0.006824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.24-09.09.55:368][ 74]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-09.09.55:373][ 74]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-09.09.56:596][189]LogRenderer: Reallocating scene render targets to support 1144x596 Format 10 NumSamples 1 (Frame:10).
+[2019.10.24-09.09.56:597][189]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.24-09.09.57:646][281]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.10.24-09.09.58:764][402]LogSlate: Window 'ANS_Monster_ToggleCollision' being destroyed
+[2019.10.24-09.10.25:355][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.10.27:617][979]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.24-09.10.27:631][979]LogAssetEditorManager: Opening Asset editor for World /Game/ZhengduoZhu/Map/MainLevel.MainLevel
+[2019.10.24-09.10.27:698][979]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2019.10.24-09.10.27:699][979]Cmd: MAP LOAD FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Map/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.24-09.10.27:699][979]LightingResults: New page: Lighting Build
+[2019.10.24-09.10.27:700][979]LoadErrors: New page: Loading map: MainLevel.umap
+[2019.10.24-09.10.27:703][979]MapCheck: New page: Map Check
+[2019.10.24-09.10.27:703][979]LightingResults: New page: Lighting Build
+[2019.10.24-09.10.27:746][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2019.10.24-09.10.27:896][979]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.24-09.10.27:943][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.10.24-09.10.27:993][979]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.24-09.10.27:994][979]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2019.10.24-09.10.27:994][979]LogFileHelpers: Loading map 'MainLevel' took 0.295
+[2019.10.24-09.10.55:381][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.11.28:704][134]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.24-09.11.28:704][134]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.24-09.12.05:932][793]LogSlate: Took 0.004926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.10.24-09.12.05:938][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\侧室顶.fbx)
+[2019.10.24-09.12.06:043][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\侧室顶.fbx
+[2019.10.24-09.12.06:053][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.08:214][793]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.24-09.12.08:580][793]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2019.10.24-09.12.08:619][793]LogFbx: Display: Triangulating static mesh pasted__SampleCharacter
+[2019.10.24-09.12.08:695][793]LogStaticMesh: Building static mesh 侧室顶...
+[2019.10.24-09.12.08:697][793]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2019.10.24-09.12.08:698][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/侧室顶.侧室顶
+[2019.10.24-09.12.08:722][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\大梁.fbx)
+[2019.10.24-09.12.08:731][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\大梁.fbx
+[2019.10.24-09.12.08:739][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.08:742][793]LogFbx: Display: Triangulating static mesh group15_pasted__pCube2
+[2019.10.24-09.12.08:746][793]LogStaticMesh: Building static mesh 大梁...
+[2019.10.24-09.12.08:748][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/大梁.大梁
+[2019.10.24-09.12.08:769][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\大门.fbx)
+[2019.10.24-09.12.08:777][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\大门.fbx
+[2019.10.24-09.12.08:784][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.08:787][793]LogFbx: Display: Triangulating static mesh pasted__SampleCharacter
+[2019.10.24-09.12.08:793][793]LogStaticMesh: Building static mesh 大门...
+[2019.10.24-09.12.08:794][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/大门.大门
+[2019.10.24-09.12.08:795][793]LogStaticMesh: Warning: 大门 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.08:795][793]LogStaticMesh: Warning: 大门 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.08:805][793]FBXImport: Warning: 大门 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.08:805][793]FBXImport: Warning: 大门 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.08:824][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\地板.fbx)
+[2019.10.24-09.12.08:834][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\地板.fbx
+[2019.10.24-09.12.08:841][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.08:845][793]LogFbx: Display: Triangulating static mesh pasted__pasted__pasted__pCube2
+[2019.10.24-09.12.08:855][793]LogStaticMesh: Building static mesh 地板...
+[2019.10.24-09.12.08:858][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/地板.地板
+[2019.10.24-09.12.08:859][793]LogStaticMesh: Warning: 地板 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.08:859][793]LogStaticMesh: Warning: 地板 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.08:869][793]FBXImport: Warning: 地板 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.08:869][793]FBXImport: Warning: 地板 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.08:879][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\地板台阶.fbx)
+[2019.10.24-09.12.08:906][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\地板台阶.fbx
+[2019.10.24-09.12.08:913][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.08:917][793]LogFbx: Display: Triangulating static mesh group1_pasted__group_pasted__pasted__pCube2
+[2019.10.24-09.12.08:920][793]LogStaticMesh: Building static mesh 地板台阶...
+[2019.10.24-09.12.08:923][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/地板台阶.地板台阶
+[2019.10.24-09.12.08:943][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\地毯.fbx)
+[2019.10.24-09.12.08:954][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\地毯.fbx
+[2019.10.24-09.12.08:961][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.08:965][793]LogFbx: Display: Triangulating static mesh pasted__SampleCharacter
+[2019.10.24-09.12.08:966][793]LogStaticMesh: Building static mesh 地毯...
+[2019.10.24-09.12.08:967][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/地毯.地毯
+[2019.10.24-09.12.08:988][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\断塔.fbx)
+[2019.10.24-09.12.08:997][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\断塔.fbx
+[2019.10.24-09.12.09:003][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.09:006][793]LogFbx: Display: Triangulating static mesh pasted__pasted__pasted__pasted__group6_pasted__SampleCharacter
+[2019.10.24-09.12.09:012][793]LogStaticMesh: Building static mesh 断塔...
+[2019.10.24-09.12.09:015][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/断塔.断塔
+[2019.10.24-09.12.09:015][793]LogStaticMesh: Warning: 断塔 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.09:016][793]LogStaticMesh: Warning: 断塔 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.09:026][793]FBXImport: Warning: 断塔 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.09:026][793]FBXImport: Warning: 断塔 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.09:035][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\房顶.fbx)
+[2019.10.24-09.12.09:042][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\房顶.fbx
+[2019.10.24-09.12.09:051][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.09:054][793]LogFbx: Display: Triangulating static mesh group12_pasted__SampleCharacter
+[2019.10.24-09.12.09:079][793]LogStaticMesh: Building static mesh 房顶...
+[2019.10.24-09.12.09:085][793]LogStaticMesh: Built static mesh [0.01s] /Game/ZhengduoZhu/Mesh/William/Church/房顶.房顶
+[2019.10.24-09.12.09:086][793]LogStaticMesh: Warning: 房顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.09:086][793]LogStaticMesh: Warning: 房顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.09:099][793]FBXImport: Warning: 房顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.09:099][793]FBXImport: Warning: 房顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.09:110][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\房顶.OBJ)
+[2019.10.24-09.12.09:127][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\房顶.OBJ
+[2019.10.24-09.12.09:134][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:083][793]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.10.24-09.12.10:165][793]LogMaterial: Display: Missing cached shader map for material Group26447Mat, compiling. 
+[2019.10.24-09.12.10:185][793]LogStaticMesh: Building static mesh 房顶_0...
+[2019.10.24-09.12.10:196][793]LogStaticMesh: Built static mesh [0.01s] /Game/ZhengduoZhu/Mesh/William/Church/房顶_0.房顶_0
+[2019.10.24-09.12.10:214][793]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.24-09.12.10:227][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\箭塔_底.fbx)
+[2019.10.24-09.12.10:240][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\箭塔_底.fbx
+[2019.10.24-09.12.10:250][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:255][793]LogFbx: Display: Triangulating static mesh pasted__pasted__group6_pasted__SampleCharacter
+[2019.10.24-09.12.10:264][793]LogStaticMesh: Building static mesh 箭塔_底...
+[2019.10.24-09.12.10:269][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/箭塔_底.箭塔_底
+[2019.10.24-09.12.10:269][793]LogStaticMesh: Warning: 箭塔_底 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:269][793]LogStaticMesh: Warning: 箭塔_底 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:281][793]FBXImport: Warning: 箭塔_底 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:281][793]FBXImport: Warning: 箭塔_底 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:290][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\箭塔_顶.fbx)
+[2019.10.24-09.12.10:299][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\箭塔_顶.fbx
+[2019.10.24-09.12.10:305][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:309][793]LogFbx: Display: Triangulating static mesh pasted__SampleCharacter
+[2019.10.24-09.12.10:312][793]LogStaticMesh: Building static mesh 箭塔_顶...
+[2019.10.24-09.12.10:313][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/箭塔_顶.箭塔_顶
+[2019.10.24-09.12.10:313][793]LogStaticMesh: Warning: 箭塔_顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:313][793]LogStaticMesh: Warning: 箭塔_顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:324][793]FBXImport: Warning: 箭塔_顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:324][793]FBXImport: Warning: 箭塔_顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:334][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\门边_底.fbx)
+[2019.10.24-09.12.10:344][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\门边_底.fbx
+[2019.10.24-09.12.10:352][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:358][793]LogFbx: Display: Triangulating static mesh group6_pasted__SampleCharacter
+[2019.10.24-09.12.10:368][793]LogStaticMesh: Building static mesh 门边_底...
+[2019.10.24-09.12.10:373][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/门边_底.门边_底
+[2019.10.24-09.12.10:373][793]LogStaticMesh: Warning: 门边_底 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:373][793]LogStaticMesh: Warning: 门边_底 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:385][793]FBXImport: Warning: 门边_底 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:385][793]FBXImport: Warning: 门边_底 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:395][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\门边_顶.fbx)
+[2019.10.24-09.12.10:407][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\门边_顶.fbx
+[2019.10.24-09.12.10:415][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:419][793]LogFbx: Display: Triangulating static mesh pasted__pasted__SampleCharacter
+[2019.10.24-09.12.10:423][793]LogStaticMesh: Building static mesh 门边_顶...
+[2019.10.24-09.12.10:423][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/门边_顶.门边_顶
+[2019.10.24-09.12.10:424][793]LogStaticMesh: Warning: 门边_顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:424][793]LogStaticMesh: Warning: 门边_顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:435][793]FBXImport: Warning: 门边_顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:435][793]FBXImport: Warning: 门边_顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:444][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\墙底.fbx)
+[2019.10.24-09.12.10:456][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\墙底.fbx
+[2019.10.24-09.12.10:462][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:466][793]LogFbx: Display: Triangulating static mesh pCube1
+[2019.10.24-09.12.10:470][793]LogStaticMesh: Building static mesh 墙底...
+[2019.10.24-09.12.10:471][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/墙底.墙底
+[2019.10.24-09.12.10:472][793]LogStaticMesh: Warning: 墙底 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:472][793]LogStaticMesh: Warning: 墙底 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:483][793]FBXImport: Warning: 墙底 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:483][793]FBXImport: Warning: 墙底 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:493][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\墙右.fbx)
+[2019.10.24-09.12.10:505][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\墙右.fbx
+[2019.10.24-09.12.10:513][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:517][793]LogFbx: Display: Triangulating static mesh pasted__SampleCharacter
+[2019.10.24-09.12.10:521][793]LogStaticMesh: Building static mesh 墙右...
+[2019.10.24-09.12.10:523][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/墙右.墙右
+[2019.10.24-09.12.10:523][793]LogStaticMesh: Warning: 墙右 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:523][793]LogStaticMesh: Warning: 墙右 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:535][793]FBXImport: Warning: 墙右 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:536][793]FBXImport: Warning: 墙右 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:541][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\十字架.fbx)
+[2019.10.24-09.12.10:553][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\十字架.fbx
+[2019.10.24-09.12.10:561][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:566][793]LogFbx: Display: Triangulating static mesh pasted__group41_pasted__pasted__SampleCharacter
+[2019.10.24-09.12.10:568][793]LogStaticMesh: Building static mesh 十字架...
+[2019.10.24-09.12.10:569][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/十字架.十字架
+[2019.10.24-09.12.10:593][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\台阶2边.fbx)
+[2019.10.24-09.12.10:607][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\台阶2边.fbx
+[2019.10.24-09.12.10:616][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:621][793]LogFbx: Display: Triangulating static mesh pasted__group45_pasted__pasted__SampleCharacter
+[2019.10.24-09.12.10:623][793]LogStaticMesh: Building static mesh 台阶2边...
+[2019.10.24-09.12.10:624][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/台阶2边.台阶2边
+[2019.10.24-09.12.10:646][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\台阶2台阶.fbx)
+[2019.10.24-09.12.10:655][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\台阶2台阶.fbx
+[2019.10.24-09.12.10:661][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:665][793]LogFbx: Display: Triangulating static mesh pasted__group1_pasted__group_pasted__pasted__pCube2
+[2019.10.24-09.12.10:668][793]LogStaticMesh: Building static mesh 台阶2台阶...
+[2019.10.24-09.12.10:671][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/台阶2台阶.台阶2台阶
+[2019.10.24-09.12.10:695][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\围墙.fbx)
+[2019.10.24-09.12.10:705][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\围墙.fbx
+[2019.10.24-09.12.10:726][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:731][793]LogFbx: Display: Triangulating static mesh group52_pasted__group47_pasted__pasted__SampleCharacter
+[2019.10.24-09.12.10:771][793]LogStaticMesh: Building static mesh 围墙...
+[2019.10.24-09.12.10:784][793]LogStaticMesh: Built static mesh [0.01s] /Game/ZhengduoZhu/Mesh/William/Church/围墙.围墙
+[2019.10.24-09.12.10:785][793]LogStaticMesh: Warning: 围墙 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:786][793]LogStaticMesh: Warning: 围墙 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:800][793]FBXImport: Warning: 围墙 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:800][793]FBXImport: Warning: 围墙 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:811][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\围墙.OBJ)
+[2019.10.24-09.12.10:820][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\围墙.OBJ
+[2019.10.24-09.12.10:837][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:847][793]LogMaterial: Display: Missing cached shader map for material Group56313Mat, compiling. 
+[2019.10.24-09.12.10:877][793]LogStaticMesh: Building static mesh 围墙_0...
+[2019.10.24-09.12.10:901][793]LogStaticMesh: Built static mesh [0.02s] /Game/ZhengduoZhu/Mesh/William/Church/围墙_0.围墙_0
+[2019.10.24-09.12.10:907][793]LogStaticMesh: Warning: 围墙_0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.10:908][793]LogStaticMesh: Warning: 围墙_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:908][793]LogStaticMesh: Warning: 围墙_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.10:930][793]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.10.24-09.12.10:930][793]FBXImport: Warning: 围墙_0 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.10:930][793]FBXImport: Warning: 围墙_0 has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:930][793]FBXImport: Warning: 围墙_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.10:946][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\椅子.fbx)
+[2019.10.24-09.12.10:957][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\椅子.fbx
+[2019.10.24-09.12.10:976][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.10:981][793]LogFbx: Display: Triangulating static mesh pasted__pCube3
+[2019.10.24-09.12.10:989][793]LogStaticMesh: Building static mesh 椅子...
+[2019.10.24-09.12.10:993][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/椅子.椅子
+[2019.10.24-09.12.11:016][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\主塔_塔顶.fbx)
+[2019.10.24-09.12.11:027][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\主塔_塔顶.fbx
+[2019.10.24-09.12.11:034][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.11:038][793]LogFbx: Display: Triangulating static mesh pasted__pasted__SampleCharacter
+[2019.10.24-09.12.11:041][793]LogStaticMesh: Building static mesh 主塔_塔顶...
+[2019.10.24-09.12.11:042][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/主塔_塔顶.主塔_塔顶
+[2019.10.24-09.12.11:043][793]LogStaticMesh: Warning: 主塔_塔顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.10.24-09.12.11:043][793]LogStaticMesh: Warning: 主塔_塔顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.10.24-09.12.11:054][793]FBXImport: Warning: 主塔_塔顶 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.10.24-09.12.11:054][793]FBXImport: Warning: 主塔_塔顶 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.10.24-09.12.11:063][793]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\主塔_塔身.fbx)
+[2019.10.24-09.12.11:075][793]LogFbx: Loading FBX Scene from C:\Users\ASUS Z170-k\Desktop\William\Jiaotang\主塔_塔身.fbx
+[2019.10.24-09.12.11:082][793]LogFbx: FBX Scene Loaded Succesfully
+[2019.10.24-09.12.11:086][793]LogFbx: Display: Triangulating static mesh pasted__SampleCharacter
+[2019.10.24-09.12.11:088][793]LogStaticMesh: Building static mesh 主塔_塔身...
+[2019.10.24-09.12.11:088][793]LogStaticMesh: Built static mesh [0.00s] /Game/ZhengduoZhu/Mesh/William/Church/主塔_塔身.主塔_塔身
+[2019.10.24-09.12.31:871][118]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-09.12.31:876][118]LogSlate: Window 'Message Log' being destroyed
+[2019.10.24-09.16.12:918][113]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.24-09.16.12:918][113]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.10.24-09.16.17:283][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.16.17:986][701]LogActorFactory: Actor Factory created 地板
+[2019.10.24-09.16.19:741][911]LogActorFactory: Actor Factory created 地板
+[2019.10.24-09.16.22:131][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.16.51:401][652]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.17.02:518][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2019.10.24-09.17.24:206][545]Cmd: DELETE
+[2019.10.24-09.17.24:206][545]Cmd: ACTOR DELETE
+[2019.10.24-09.17.24:208][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-09.17.24:294][545]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2019.10.24-09.17.24:294][545]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2019.10.24-09.17.31:471][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.17.36:632][ 19]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/围墙_0.围墙_0
+[2019.10.24-09.17.36:691][ 19]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2019.10.24-09.17.37:333][ 20]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-09.17.42:768][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.17.55:231][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.17.55:487][607]LogActorFactory: Actor Factory created 大门
+[2019.10.24-09.17.57:257][819]LogActorFactory: Actor Factory created 大门
+[2019.10.24-09.18.01:172][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.18.29:257][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.18.31:055][827]LogActorFactory: Actor Factory created 地板台阶
+[2019.10.24-09.18.34:956][284]LogActorFactory: Actor Factory created 地板台阶
+[2019.10.24-09.18.39:535][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.18.41:476][ 58]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (地板台阶)
+[2019.10.24-09.18.41:526][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.18.43:944][327]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.10.24-09.18.51:676][197]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (地板台阶)
+[2019.10.24-09.18.51:693][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.18.58:035][934]Cmd: PIVOT HERE
+[2019.10.24-09.18.58:790][ 21]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.19.08:741][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.19.19:225][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板台阶2)
+[2019.10.24-09.19.20:253][576]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (地板台阶2)
+[2019.10.24-09.19.20:270][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.19.23:097][881]Cmd: PIVOT HERE
+[2019.10.24-09.19.33:009][ 63]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (地板台阶)
+[2019.10.24-09.19.34:430][229]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (地板台阶2)
+[2019.10.24-09.19.34:447][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.19.37:508][569]Cmd: PIVOT HERE
+[2019.10.24-09.19.51:682][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板台阶)
+[2019.10.24-09.19.52:556][361]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (地板台阶)
+[2019.10.24-09.19.52:573][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.19.55:024][635]Cmd: PIVOT HERE
+[2019.10.24-09.20.19:063][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.20.19:238][497]LogActorFactory: Actor Factory created 围墙_0
+[2019.10.24-09.20.20:016][588]LogActorFactory: Actor Factory created 围墙_0
+[2019.10.24-09.20.59:546][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.20.59:854][319]LogActorFactory: Actor Factory created 门边_底
+[2019.10.24-09.21.01:710][538]LogActorFactory: Actor Factory created 门边_底
+[2019.10.24-09.21.01:801][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.21.27:749][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (门边_底)
+[2019.10.24-09.21.30:409][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.21.30:740][986]LogActorFactory: Actor Factory created 门边_顶
+[2019.10.24-09.21.32:540][199]LogActorFactory: Actor Factory created 门边_顶
+[2019.10.24-09.21.35:229][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.21.57:122][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.22.09:743][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.22.10:309][664]LogActorFactory: Actor Factory created 墙右
+[2019.10.24-09.22.12:520][927]LogActorFactory: Actor Factory created 墙右
+[2019.10.24-09.22.12:627][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.22.40:954][298]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.22.54:837][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (墙右)
+[2019.10.24-09.23.06:528][330]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.23.11:001][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.23.14:890][307]LogActorFactory: Actor Factory created 墙底
+[2019.10.24-09.23.17:093][567]LogActorFactory: Actor Factory created 墙底
+[2019.10.24-09.23.30:269][811]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (墙底)
+[2019.10.24-09.23.30:289][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.23.31:087][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (墙底)
+[2019.10.24-09.23.36:445][541]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.24.03:167][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.24.03:401][745]LogActorFactory: Actor Factory created 箭塔_底
+[2019.10.24-09.24.05:269][961]LogActorFactory: Actor Factory created 箭塔_底
+[2019.10.24-09.24.05:375][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.24.12:519][808]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.24.16:747][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.24.24:291][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (墙右2)
+[2019.10.24-09.24.39:871][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (箭塔_底2)
+[2019.10.24-09.24.58:794][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.24.59:176][278]LogActorFactory: Actor Factory created 房顶_0
+[2019.10.24-09.25.00:522][435]LogActorFactory: Actor Factory created 房顶_0
+[2019.10.24-09.25.11:737][769]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.25.39:591][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.25.45:499][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.25.45:782][792]LogActorFactory: Actor Factory created 大梁
+[2019.10.24-09.25.48:601][119]LogActorFactory: Actor Factory created 大梁
+[2019.10.24-09.25.48:907][151]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.26.07:004][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2019.10.24-09.26.12:851][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.26.13:095][ 15]LogActorFactory: Actor Factory created 箭塔_顶
+[2019.10.24-09.26.15:008][232]LogActorFactory: Actor Factory created 箭塔_顶
+[2019.10.24-09.26.24:673][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.26.25:926][514]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (箭塔_顶)
+[2019.10.24-09.26.25:944][514]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.26.28:566][803]Cmd: PIVOT HERE
+[2019.10.24-09.26.42:488][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (墙右)
+[2019.10.24-09.27.03:356][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.27.03:685][952]LogActorFactory: Actor Factory created 侧室顶
+[2019.10.24-09.27.05:056][107]LogActorFactory: Actor Factory created 侧室顶
+[2019.10.24-09.27.29:030][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.27.29:538][977]LogActorFactory: Actor Factory created 断塔
+[2019.10.24-09.27.30:916][137]LogActorFactory: Actor Factory created 断塔
+[2019.10.24-09.27.31:481][201]LogActorFactory: Actor Factory created 断塔
+[2019.10.24-09.27.43:518][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (断塔)
+[2019.10.24-09.27.56:941][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (墙右3)
+[2019.10.24-09.28.03:853][ 41]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.28.18:460][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.28.18:641][784]LogActorFactory: Actor Factory created 主塔_塔身
+[2019.10.24-09.28.19:900][931]LogActorFactory: Actor Factory created 主塔_塔身
+[2019.10.24-09.29.00:120][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.29.06:235][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.29.10:366][920]LogActorFactory: Actor Factory created 主塔_塔顶
+[2019.10.24-09.29.11:809][ 86]LogActorFactory: Actor Factory created 主塔_塔顶
+[2019.10.24-09.29.11:814][ 86]LogActorFactory: Actor Factory created 主塔_塔顶
+[2019.10.24-09.29.43:557][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.29.43:751][880]LogActorFactory: Actor Factory created 十字架
+[2019.10.24-09.29.45:472][ 85]LogActorFactory: Actor Factory created 十字架
+[2019.10.24-09.30.13:883][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.30.14:202][506]LogActorFactory: Actor Factory created 椅子
+[2019.10.24-09.30.16:424][767]LogActorFactory: Actor Factory created 椅子
+[2019.10.24-09.30.44:154][ 64]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (椅子2)
+[2019.10.24-09.30.46:029][283]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (椅子)
+[2019.10.24-09.30.54:871][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.30.55:115][338]LogActorFactory: Actor Factory created 地板
+[2019.10.24-09.30.56:245][468]LogActorFactory: Actor Factory created 地板
+[2019.10.24-09.30.56:992][553]Cmd: DELETE
+[2019.10.24-09.30.56:992][553]Cmd: ACTOR DELETE
+[2019.10.24-09.30.56:994][553]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.24-09.30.57:105][553]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.10.24-09.30.57:105][553]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2019.10.24-09.31.01:659][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.31.01:846][113]LogActorFactory: Actor Factory created 地毯
+[2019.10.24-09.31.03:267][283]LogActorFactory: Actor Factory created 地毯
+[2019.10.24-09.31.19:791][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2019.10.24-09.31.21:452][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TERRAIN_30_LP)
+[2019.10.24-09.32.03:821][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.10.24-09.32.04:075][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/MainLevel_Auto1DD4EFAEF4F0E59016B66398035DFD699.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Map/MainLevel_Auto1.umap'
+[2019.10.24-09.32.04:078][569]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ZhengduoZhu/Map/MainLevel' took 0.313
+[2019.10.24-09.32.04:078][569]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2019.10.24-09.32.04:080][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/侧室顶] ([1] browsable assets)...
+[2019.10.24-09.32.04:100][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/侧室顶.侧室顶]
+[2019.10.24-09.32.04:100][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/侧室顶]
+[2019.10.24-09.32.04:113][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/侧室顶_Auto1C4567E6E488351A9D65477831900977A.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/侧室顶_Auto1.uasset'
+[2019.10.24-09.32.04:114][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/lambert1] ([1] browsable assets)...
+[2019.10.24-09.32.04:133][569]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZhengduoZhu/Mesh/William/Church/lambert1.lambert1]
+[2019.10.24-09.32.04:133][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/lambert1]
+[2019.10.24-09.32.04:146][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/lambert1_Auto1A1DAA82D48075AF3F49DEAB6604B7E81.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/lambert1_Auto1.uasset'
+[2019.10.24-09.32.04:146][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/大梁] ([1] browsable assets)...
+[2019.10.24-09.32.04:164][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/大梁.大梁]
+[2019.10.24-09.32.04:164][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/大梁]
+[2019.10.24-09.32.04:178][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/大梁_Auto12DDCBC314123D3AC4D11878B85C4534F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/大梁_Auto1.uasset'
+[2019.10.24-09.32.04:179][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/大门] ([1] browsable assets)...
+[2019.10.24-09.32.04:198][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/大门.大门]
+[2019.10.24-09.32.04:198][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/大门]
+[2019.10.24-09.32.04:213][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/大门_Auto1E6A9A5BB41FB623626AC909B231A3C62.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/大门_Auto1.uasset'
+[2019.10.24-09.32.04:214][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/地板] ([1] browsable assets)...
+[2019.10.24-09.32.04:231][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/地板.地板]
+[2019.10.24-09.32.04:231][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/地板]
+[2019.10.24-09.32.04:244][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地板_Auto138AB6FFA432195CE39781187B9A2634B.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/地板_Auto1.uasset'
+[2019.10.24-09.32.04:245][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/地板台阶] ([1] browsable assets)...
+[2019.10.24-09.32.04:263][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/地板台阶.地板台阶]
+[2019.10.24-09.32.04:263][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/地板台阶]
+[2019.10.24-09.32.04:277][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地板台阶_Auto1DF7680894740140BC0FDE1B80672E659.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/地板台阶_Auto1.uasset'
+[2019.10.24-09.32.04:278][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/地毯] ([1] browsable assets)...
+[2019.10.24-09.32.04:295][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/地毯.地毯]
+[2019.10.24-09.32.04:295][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/地毯]
+[2019.10.24-09.32.04:312][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地毯_Auto13008E316418E97AD212A1DADCA6155D3.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/地毯_Auto1.uasset'
+[2019.10.24-09.32.04:313][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/断塔] ([1] browsable assets)...
+[2019.10.24-09.32.04:330][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/断塔.断塔]
+[2019.10.24-09.32.04:330][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/断塔]
+[2019.10.24-09.32.04:345][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/断塔_Auto1FD0D2AA44F64E0534B66BB9063E1F0B3.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/断塔_Auto1.uasset'
+[2019.10.24-09.32.04:346][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/房顶] ([1] browsable assets)...
+[2019.10.24-09.32.04:363][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/房顶.房顶]
+[2019.10.24-09.32.04:363][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/房顶]
+[2019.10.24-09.32.04:379][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/房顶_Auto12F492A87462DA7B68334398261EFFDDA.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/房顶_Auto1.uasset'
+[2019.10.24-09.32.04:380][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/房顶_0] ([1] browsable assets)...
+[2019.10.24-09.32.04:397][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/房顶_0.房顶_0]
+[2019.10.24-09.32.04:397][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/房顶_0]
+[2019.10.24-09.32.04:415][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/房顶_0_Auto1D22B90C243B3B5A54A363985D0E92BBC.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/房顶_0_Auto1.uasset'
+[2019.10.24-09.32.04:416][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/Group26447Mat] ([1] browsable assets)...
+[2019.10.24-09.32.04:434][569]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZhengduoZhu/Mesh/William/Church/Group26447Mat.Group26447Mat]
+[2019.10.24-09.32.04:434][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/Group26447Mat]
+[2019.10.24-09.32.04:447][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Group26447Mat_Auto1DC338D1E4EF965D0DA2B5BA48B07B196.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/Group26447Mat_Auto1.uasset'
+[2019.10.24-09.32.04:448][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/箭塔_底] ([1] browsable assets)...
+[2019.10.24-09.32.04:465][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/箭塔_底.箭塔_底]
+[2019.10.24-09.32.04:465][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/箭塔_底]
+[2019.10.24-09.32.04:480][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/箭塔_底_Auto189D662F94AB90491268064A874EB45AE.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/箭塔_底_Auto1.uasset'
+[2019.10.24-09.32.04:481][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/箭塔_顶] ([1] browsable assets)...
+[2019.10.24-09.32.04:500][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/箭塔_顶.箭塔_顶]
+[2019.10.24-09.32.04:500][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/箭塔_顶]
+[2019.10.24-09.32.04:515][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/箭塔_顶_Auto166306B1A4A939F601571A7B7ECF6753F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/箭塔_顶_Auto1.uasset'
+[2019.10.24-09.32.04:516][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/门边_底] ([1] browsable assets)...
+[2019.10.24-09.32.04:533][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/门边_底.门边_底]
+[2019.10.24-09.32.04:533][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/门边_底]
+[2019.10.24-09.32.04:548][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/门边_底_Auto13A2B4FA947569393E3A344BF2E5971CB.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/门边_底_Auto1.uasset'
+[2019.10.24-09.32.04:549][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/门边_顶] ([1] browsable assets)...
+[2019.10.24-09.32.04:567][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/门边_顶.门边_顶]
+[2019.10.24-09.32.04:567][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/门边_顶]
+[2019.10.24-09.32.04:581][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/门边_顶_Auto1BB58E53548280DA7D96B74970B476915.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/门边_顶_Auto1.uasset'
+[2019.10.24-09.32.04:582][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/墙底] ([1] browsable assets)...
+[2019.10.24-09.32.04:600][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/墙底.墙底]
+[2019.10.24-09.32.04:600][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/墙底]
+[2019.10.24-09.32.04:614][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/墙底_Auto10C46C81C4DEC5B376DB1B8B45B076B18.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/墙底_Auto1.uasset'
+[2019.10.24-09.32.04:615][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/墙右] ([1] browsable assets)...
+[2019.10.24-09.32.04:633][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/墙右.墙右]
+[2019.10.24-09.32.04:633][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/墙右]
+[2019.10.24-09.32.04:647][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/墙右_Auto10FD43C5C442693E300815E964A8AAB6B.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/墙右_Auto1.uasset'
+[2019.10.24-09.32.04:648][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/十字架] ([1] browsable assets)...
+[2019.10.24-09.32.04:667][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/十字架.十字架]
+[2019.10.24-09.32.04:667][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/十字架]
+[2019.10.24-09.32.04:681][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/十字架_Auto16234C97349AFAAFAE125EBBE6243B7A8.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/十字架_Auto1.uasset'
+[2019.10.24-09.32.04:682][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/台阶2边] ([1] browsable assets)...
+[2019.10.24-09.32.04:699][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/台阶2边.台阶2边]
+[2019.10.24-09.32.04:699][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/台阶2边]
+[2019.10.24-09.32.04:714][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/台阶2边_Auto1E3604FA64171F1DCDBEB1DAF28365AC9.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/台阶2边_Auto1.uasset'
+[2019.10.24-09.32.04:716][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/台阶2台阶] ([1] browsable assets)...
+[2019.10.24-09.32.04:733][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/台阶2台阶.台阶2台阶]
+[2019.10.24-09.32.04:733][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/台阶2台阶]
+[2019.10.24-09.32.04:747][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/台阶2台阶_Auto17B73B77943291DF2306BBBA3EE00C45F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/台阶2台阶_Auto1.uasset'
+[2019.10.24-09.32.04:748][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/围墙] ([1] browsable assets)...
+[2019.10.24-09.32.04:764][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/围墙.围墙]
+[2019.10.24-09.32.04:764][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/围墙]
+[2019.10.24-09.32.04:781][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/围墙_Auto185C4FBE34C6145402D8BDAB627D832F5.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/围墙_Auto1.uasset'
+[2019.10.24-09.32.04:782][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/围墙_0] ([1] browsable assets)...
+[2019.10.24-09.32.04:800][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/围墙_0.围墙_0]
+[2019.10.24-09.32.04:800][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/围墙_0]
+[2019.10.24-09.32.04:821][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/围墙_0_Auto1DD0ED757483AEB29BD5BE19AC9B860BB.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/围墙_0_Auto1.uasset'
+[2019.10.24-09.32.04:822][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/Group56313Mat] ([1] browsable assets)...
+[2019.10.24-09.32.04:841][569]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZhengduoZhu/Mesh/William/Church/Group56313Mat.Group56313Mat]
+[2019.10.24-09.32.04:841][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/Group56313Mat]
+[2019.10.24-09.32.04:854][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Group56313Mat_Auto1D1C6799B43EEEB1A179716984FDF2ABE.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/Group56313Mat_Auto1.uasset'
+[2019.10.24-09.32.04:854][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/椅子] ([1] browsable assets)...
+[2019.10.24-09.32.04:873][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/椅子.椅子]
+[2019.10.24-09.32.04:873][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/椅子]
+[2019.10.24-09.32.04:887][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/椅子_Auto15B6CB997401C88B18085CA83954B9A8A.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/椅子_Auto1.uasset'
+[2019.10.24-09.32.04:888][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔顶] ([1] browsable assets)...
+[2019.10.24-09.32.04:906][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/主塔_塔顶.主塔_塔顶]
+[2019.10.24-09.32.04:906][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔顶]
+[2019.10.24-09.32.04:921][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/主塔_塔顶_Auto1EDADE13A418C4110EFB00692C2461D29.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔顶_Auto1.uasset'
+[2019.10.24-09.32.04:922][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔身] ([1] browsable assets)...
+[2019.10.24-09.32.04:938][569]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/主塔_塔身.主塔_塔身]
+[2019.10.24-09.32.04:939][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔身]
+[2019.10.24-09.32.04:952][569]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/主塔_塔身_Auto166CB8C944B61665D6843599A48FD1426.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Autosaves/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔身_Auto1.uasset'
+[2019.10.24-09.32.04:953][569]LogFileHelpers: Auto-saving content packages took 0.874
+[2019.10.24-09.32.23:492][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.32.25:736][858]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-09.32.25:784][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.32.25:784][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-09.32.25:784][858]PIE: New page: PIE session: MainLevel (2019年10月25日 上午7:32:25)
+[2019.10.24-09.32.25:796][858]LogPlayLevel: Creating play world package: /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel
+[2019.10.24-09.32.25:803][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006439s)
+[2019.10.24-09.32.25:803][858]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.24-09.32.25:803][858]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.10.24-09.32.25:803][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZhengduoZhu/Map/MainLevel.MainLevel to /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel (0.007248s)
+[2019.10.24-09.32.25:846][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.10.24-09.32.25:946][858]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-09.32.25:990][858]LogInit: FAudioDevice initialized.
+[2019.10.24-09.32.25:998][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.32.26:041][858]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.24-09.32.26:046][858]LogWorld: Bringing World /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.10.24-20.32.26
+[2019.10.24-09.32.26:048][858]LogWorld: Bringing up level for play took: 0.006337
+[2019.10.24-09.32.26:062][858]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.10.24-09.32.26:063][858]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.10.24-09.32.26:064][858]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.10.24-09.32.26:083][858]PIE: Play in editor start time for /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel 1.044
+[2019.10.24-09.32.26:083][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.32.26:106][858]LogAudio: Warning: Detected orphaned looping sound 'BGM2'.
+[2019.10.24-09.32.26:134][859]LogRenderer: Reallocating scene render targets to support 1432x1024 Format 10 NumSamples 1 (Frame:1).
+[2019.10.24-09.32.43:711][922]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.32.43:712][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.32.43:737][922]LogSlate: Window 'FIT3040 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-09.32.43:779][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-09.32.43:780][922]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.32.43:873][922]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.10.24-09.32.43:888][923]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.10.24-09.32.54:770][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.33.13:347][295]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/地板.地板
+[2019.10.24-09.33.43:595][880]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.24-09.33.51:293][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.33.51:407][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/地板" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板.uasset" SILENT=true
+[2019.10.24-09.33.51:423][812]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地板FEB123054D271C9814A69696F0492FC4.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板.uasset'
+[2019.10.24-09.33.54:907][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.33.58:120][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TERRAIN_30_LP)
+[2019.10.24-09.34.01:101][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.34.02:623][ 50]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ZhengduoZhu/Mesh/TERRAIN_30_LP.TERRAIN_30_LP
+[2019.10.24-09.35.11:359][ 49]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/地板台阶.地板台阶
+[2019.10.24-09.35.26:113][740]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ZhengduoZhu/Mesh/William/Church/地板台阶.地板台阶
+[2019.10.24-09.36.52:653][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/地板台阶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板台阶.uasset" SILENT=true
+[2019.10.24-09.36.52:667][596]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地板台阶F8B0FD77441377F7952523AA12F3E45B.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板台阶.uasset'
+[2019.10.24-09.36.55:507][919]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-09.36.55:549][919]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.36.55:549][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-09.36.55:549][919]PIE: New page: PIE session: MainLevel (2019年10月25日 上午7:36:55)
+[2019.10.24-09.36.55:549][919]LogPlayLevel: Creating play world package: /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel
+[2019.10.24-09.36.55:556][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007011s)
+[2019.10.24-09.36.55:557][919]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.24-09.36.55:557][919]LogPlayLevel: PIE: World Init took: (0.000513s)
+[2019.10.24-09.36.55:557][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZhengduoZhu/Map/MainLevel.MainLevel to /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel (0.007653s)
+[2019.10.24-09.36.55:622][919]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.10.24-09.36.55:714][919]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-09.36.55:758][919]LogInit: FAudioDevice initialized.
+[2019.10.24-09.36.55:765][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.36.55:793][919]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.24-09.36.55:799][919]LogWorld: Bringing World /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.10.24-20.36.55
+[2019.10.24-09.36.55:800][919]LogWorld: Bringing up level for play took: 0.006491
+[2019.10.24-09.36.55:830][919]PIE: Play in editor start time for /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel 0.792
+[2019.10.24-09.36.55:830][919]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.36.55:833][919]LogAudio: Warning: Detected orphaned looping sound 'BGM2'.
+[2019.10.24-09.36.58:419][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.36.58:419][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.36.58:445][225]LogSlate: Window 'FIT3040 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-09.36.58:478][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-09.36.58:478][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.36.58:533][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2019.10.24-09.36.58:552][226]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.24-09.37.00:666][477]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.10.24-09.37.03:441][806]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.24-09.37.05:414][ 40]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.24-09.37.05:528][ 52]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.37.11:946][798]Cmd: TRANSACTION UNDO
+[2019.10.24-09.37.11:946][798]LogEditorTransaction: Undo Move Actors
+[2019.10.24-09.37.12:078][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.24-09.37.12:084][798]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.24-09.37.12:427][829]Cmd: TRANSACTION UNDO
+[2019.10.24-09.37.12:427][829]LogEditorTransaction: Undo Move Actors
+[2019.10.24-09.37.12:565][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.24-09.37.12:568][829]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.10.24-09.37.15:633][192]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.37.21:044][832]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.24-09.37.21:118][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.10.24-09.37.23:586][117]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.10.24-09.37.24:280][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.37.24:355][207]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-09.37.24:396][207]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.37.24:396][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-09.37.24:396][207]PIE: New page: PIE session: MainLevel (2019年10月25日 上午7:37:24)
+[2019.10.24-09.37.24:396][207]LogPlayLevel: Creating play world package: /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel
+[2019.10.24-09.37.24:402][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006355s)
+[2019.10.24-09.37.24:403][207]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.24-09.37.24:403][207]LogPlayLevel: PIE: World Init took: (0.000547s)
+[2019.10.24-09.37.24:403][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZhengduoZhu/Map/MainLevel.MainLevel to /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel (0.007021s)
+[2019.10.24-09.37.24:444][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2019.10.24-09.37.24:536][207]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-09.37.24:579][207]LogInit: FAudioDevice initialized.
+[2019.10.24-09.37.24:586][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.37.24:614][207]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.24-09.37.24:619][207]LogWorld: Bringing World /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.10.24-20.37.24
+[2019.10.24-09.37.24:621][207]LogWorld: Bringing up level for play took: 0.006539
+[2019.10.24-09.37.24:653][207]PIE: Play in editor start time for /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel -0.386
+[2019.10.24-09.37.24:653][207]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.37.24:655][207]LogAudio: Warning: Detected orphaned looping sound 'BGM2'.
+[2019.10.24-09.37.50:139][242]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.37.50:140][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.37.50:166][242]LogSlate: Window 'FIT3040 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-09.37.50:202][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-09.37.50:203][242]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.37.50:254][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.10.24-09.37.50:268][243]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.24-09.39.10:000][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.10.24-09.39.10:055][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.10.24-09.39.10:301][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/MainLevel2E223708401CA3C88FC94888B17AD586.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Map/MainLevel.umap'
+[2019.10.24-09.39.10:362][655]LogFileHelpers: Saving map 'MainLevel' took 0.349
+[2019.10.24-09.39.10:403][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Dead_Montage9B5B9CB8435E9B96276A129DD405B72C.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Character/Enemy/Monster/Montage/Dead_Montage.uasset'
+[2019.10.24-09.39.10:444][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/M_Boss_Dead6D11E3684866381208F7DFAD1F01AEA9.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Character/Enemy/Boss/Montage/M_Boss_Dead.uasset'
+[2019.10.24-09.39.10:460][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/侧室顶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/侧室顶.uasset" SILENT=true
+[2019.10.24-09.39.10:472][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/侧室顶D7CC26F24A7AFE1D86A7B29C89E9E6BA.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/侧室顶.uasset'
+[2019.10.24-09.39.10:488][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/lambert125439E5D4812187B5460A6A630FB46E0.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/lambert1.uasset'
+[2019.10.24-09.39.10:505][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/大梁" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/大梁.uasset" SILENT=true
+[2019.10.24-09.39.10:519][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/大梁BD1FF3DF4B40ABCA2BC4F2B6E25D42B8.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/大梁.uasset'
+[2019.10.24-09.39.10:537][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/大门" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/大门.uasset" SILENT=true
+[2019.10.24-09.39.10:552][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/大门4294E65649698AC9C291ED94245B099F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/大门.uasset'
+[2019.10.24-09.39.10:569][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/地板" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板.uasset" SILENT=true
+[2019.10.24-09.39.10:597][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地板BA01C6A04F9569DB81F6D29F5B16F95F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板.uasset'
+[2019.10.24-09.39.10:612][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/地板台阶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板台阶.uasset" SILENT=true
+[2019.10.24-09.39.10:639][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地板台阶123B08AF4BD70BCA4478C89EBE226820.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地板台阶.uasset'
+[2019.10.24-09.39.10:653][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/地毯" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地毯.uasset" SILENT=true
+[2019.10.24-09.39.10:667][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/地毯1BF0F12A4EBCB7F81DD5F08981FEA6F8.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/地毯.uasset'
+[2019.10.24-09.39.10:685][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/断塔" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/断塔.uasset" SILENT=true
+[2019.10.24-09.39.10:699][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/断塔CB2E65C14D79B23BE4D75DBBC5AA03CB.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/断塔.uasset'
+[2019.10.24-09.39.10:716][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/房顶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/房顶.uasset" SILENT=true
+[2019.10.24-09.39.10:731][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/房顶09322B0C438FA2B79B39359DF108AF6F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/房顶.uasset'
+[2019.10.24-09.39.10:749][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/房顶_0" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/房顶_0.uasset" SILENT=true
+[2019.10.24-09.39.10:766][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/房顶_08BEC27E64855A9039E24ACA1C4357A38.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/房顶_0.uasset'
+[2019.10.24-09.39.10:782][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Group26447MatA7CB634D4793387742C11E8C97FCEE38.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/Group26447Mat.uasset'
+[2019.10.24-09.39.10:799][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/箭塔_底" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/箭塔_底.uasset" SILENT=true
+[2019.10.24-09.39.10:813][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/箭塔_底EB592CCC4F7F9265C98872A6E291BB29.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/箭塔_底.uasset'
+[2019.10.24-09.39.10:830][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/箭塔_顶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/箭塔_顶.uasset" SILENT=true
+[2019.10.24-09.39.10:844][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/箭塔_顶F164136A457D91DB107202BE5E20322B.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/箭塔_顶.uasset'
+[2019.10.24-09.39.10:862][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/门边_底" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/门边_底.uasset" SILENT=true
+[2019.10.24-09.39.10:876][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/门边_底5E89ED3B4FD8ACD579DB0DAE810B2EF9.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/门边_底.uasset'
+[2019.10.24-09.39.10:893][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/门边_顶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/门边_顶.uasset" SILENT=true
+[2019.10.24-09.39.10:907][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/门边_顶968ABA654A5618D274D108AB5395B9E3.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/门边_顶.uasset'
+[2019.10.24-09.39.10:925][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/墙底" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/墙底.uasset" SILENT=true
+[2019.10.24-09.39.10:938][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/墙底90AB5E2F4DA3511775DFC4819CEEFE9B.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/墙底.uasset'
+[2019.10.24-09.39.10:956][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/墙右" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/墙右.uasset" SILENT=true
+[2019.10.24-09.39.10:970][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/墙右9A0D7224438604FDD948628129203F93.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/墙右.uasset'
+[2019.10.24-09.39.10:989][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/十字架" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/十字架.uasset" SILENT=true
+[2019.10.24-09.39.11:003][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/十字架4AF543F8411F033770486EA74B72C65A.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/十字架.uasset'
+[2019.10.24-09.39.11:022][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/台阶2边" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/台阶2边.uasset" SILENT=true
+[2019.10.24-09.39.11:036][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/台阶2边5A41112346774B0A24713CAE0FDE838A.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/台阶2边.uasset'
+[2019.10.24-09.39.11:054][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/台阶2台阶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/台阶2台阶.uasset" SILENT=true
+[2019.10.24-09.39.11:069][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/台阶2台阶876EFBD541F188D4889D0ABE4139F002.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/台阶2台阶.uasset'
+[2019.10.24-09.39.11:087][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/围墙" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/围墙.uasset" SILENT=true
+[2019.10.24-09.39.11:105][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/围墙ADD92BD04AF8D71E353EE7A4D60ADEC7.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/围墙.uasset'
+[2019.10.24-09.39.11:126][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/围墙_0" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/围墙_0.uasset" SILENT=true
+[2019.10.24-09.39.11:146][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/围墙_0665D1B4145AD3E947F14F2933364E5A4.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/围墙_0.uasset'
+[2019.10.24-09.39.11:161][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/Group56313Mat011E599A48B629ACB0F0E08C8A41D535.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/Group56313Mat.uasset'
+[2019.10.24-09.39.11:177][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/椅子" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/椅子.uasset" SILENT=true
+[2019.10.24-09.39.11:192][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/椅子2AA2EA31452215D56BABB992E71B059F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/椅子.uasset'
+[2019.10.24-09.39.11:207][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔顶" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/主塔_塔顶.uasset" SILENT=true
+[2019.10.24-09.39.11:219][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/主塔_塔顶903C3B7D41D720AD09B338AE39C95B6F.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/主塔_塔顶.uasset'
+[2019.10.24-09.39.11:235][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZhengduoZhu/Mesh/William/Church/主塔_塔身" FILE="C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/主塔_塔身.uasset" SILENT=true
+[2019.10.24-09.39.11:248][655]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/主塔_塔身CC472F36449833573E94508266F3B771.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Mesh/William/Church/主塔_塔身.uasset'
+[2019.10.24-09.39.19:034][536]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.10.24-09.39.28:739][688]LogEditorViewport: Clicking on Actor (LMB): Barbarian_C (Barbarian)
+[2019.10.24-09.39.30:928][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.39.31:018][937]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.10.24-09.39.31:067][937]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.39.31:067][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.24-09.39.31:067][937]PIE: New page: PIE session: MainLevel (2019年10月25日 上午7:39:31)
+[2019.10.24-09.39.31:067][937]LogPlayLevel: Creating play world package: /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel
+[2019.10.24-09.39.31:073][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006048s)
+[2019.10.24-09.39.31:073][937]LogAIModule: Creating AISystem for world MainLevel
+[2019.10.24-09.39.31:074][937]LogPlayLevel: PIE: World Init took: (0.000422s)
+[2019.10.24-09.39.31:074][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ZhengduoZhu/Map/MainLevel.MainLevel to /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel (0.006576s)
+[2019.10.24-09.39.31:113][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.10.24-09.39.31:205][937]LogInit: XAudio2 using 'Headphones (Arctis Pro Wireless Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.24-09.39.31:247][937]LogInit: FAudioDevice initialized.
+[2019.10.24-09.39.31:255][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.39.31:285][937]LogLoad: Game class is 'MyGameMode_C'
+[2019.10.24-09.39.31:290][937]LogWorld: Bringing World /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2019.10.24-20.39.31
+[2019.10.24-09.39.31:292][937]LogWorld: Bringing up level for play took: 0.005943
+[2019.10.24-09.39.31:322][937]PIE: Play in editor start time for /Game/ZhengduoZhu/Map/UEDPIE_0_MainLevel 0.283
+[2019.10.24-09.39.31:322][937]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.39.31:325][937]LogAudio: Warning: Detected orphaned looping sound 'BGM2'.
+[2019.10.24-09.40.01:813][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.40.01:814][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.24-09.40.01:840][577]LogSlate: Window 'FIT3040 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.10.24-09.40.01:877][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.24-09.40.01:878][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel' has LevelScriptBlueprint '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel' with GeneratedClass '/Game/ZhengduoZhu/Map/MainLevel.MainLevel_C' with ClassGeneratedBy '/Game/ZhengduoZhu/Map/MainLevel.MainLevel:PersistentLevel.MainLevel'
+[2019.10.24-09.40.01:930][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.10.24-09.40.01:950][578]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.24-09.40.02:849][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.10.24-09.40.02:900][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.24-09.40.03:143][681]LogSavePackage: Moving 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Saved/MainLevel4B826A6844F9C1611393B89CCDA310B5.tmp' to 'C:/Users/ASUS Z170-k/Documents/GitHub/FIT3040/FIT3040/Content/ZhengduoZhu/Map/MainLevel.umap'
+[2019.10.24-09.40.03:198][681]LogFileHelpers: Saving map 'MainLevel' took 0.339
+[2019.10.24-09.40.32:432][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-09.40.36:494][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.10.24-09.40.36:683][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-09.40.36:940][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-09.40.37:183][523]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.10.24-09.40.37:256][523]LogSlate: Window 'FIT3040 - Unreal Editor' being destroyed
+[2019.10.24-09.40.37:445][524]Cmd: QUIT_EDITOR
+[2019.10.24-09.40.38:142][524]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.10.24-09.40.38:150][524]LogExit: Preparing to exit.
+[2019.10.24-09.40.38:913][524]LogExit: Editor shut down
+[2019.10.24-09.40.38:913][524]LogExit: Transaction tracking system shut down
+[2019.10.24-09.40.39:238][524]LogExit: Object subsystem successfully closed.
+[2019.10.24-09.40.39:253][524]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.24-09.40.39:258][524]LogD3D11RHI: Shutdown
+[2019.10.24-09.40.39:258][524]LogD3D11RHI: CleanupD3DDevice
+[2019.10.24-09.40.39:258][524]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-09.40.39:258][524]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-09.40.39:258][524]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-09.40.39:258][524]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-09.40.39:258][524]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.24-09.40.39:258][524]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.24-09.40.39:390][524]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (658)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module Voice (656)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (654)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module MeshBuilder (652)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module PinnedCommandList (650)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module SkeletonEditor (648)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module AnimationEditor (646)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module BlueprintGraph (644)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2019.10.24-09.40.39:398][524]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.10.24-09.40.39:399][524]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.10.24-09.40.39:400][524]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.10.24-09.40.39:896][524]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.10.24-09.40.39:897][524]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.10.24-09.40.39:940][524]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.10.24-09.40.39:946][524]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.10.24-09.40.39:946][524]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.10.24-09.40.39:947][524]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.10.24-09.40.39:950][524]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.10.24-09.40.39:980][524]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.10.24-09.40.39:980][524]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.10.24-09.40.39:980][524]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.10.24-09.40.39:980][524]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.10.24-09.40.39:981][524]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.10.24-09.40.39:982][524]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.10.24-09.40.39:982][524]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.10.24-09.40.39:982][524]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.10.24-09.40.39:982][524]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.10.24-09.40.39:982][524]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.10.24-09.40.39:982][524]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.10.24-09.40.40:082][524]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.10.24-09.40.40:183][524]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.10.24-09.40.40:183][524]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.10.24-09.40.40:184][524]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.10.24-09.40.40:184][524]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.10.24-09.40.40:184][524]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.10.24-09.40.40:185][524]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.10.24-09.40.40:186][524]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.10.24-09.40.40:226][524]LogDerivedDataCache: Shutdown
+[2019.10.24-09.40.40:226][524]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.10.24-09.40.40:226][524]LogXGEController: Cleaning working directory: C:/Users/ASUS Z170-k/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.24-09.40.40:226][524]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.10.24-09.40.40:227][524]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.10.24-09.40.40:228][524]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.10.24-09.40.40:228][524]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.10.24-09.40.40:228][524]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.10.24-09.40.40:228][524]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.10.24-09.40.40:232][524]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.10.24-09.40.40:232][524]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.10.24-09.40.40:232][524]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.10.24-09.40.40:233][524]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.10.24-09.40.40:233][524]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.10.24-09.40.40:234][524]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.10.24-09.40.40:234][524]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.10.24-09.40.40:249][524]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.10.24-09.40.40:249][524]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.24-09.40.40:249][524]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA2461EE9-44A4-496F-1D81-8F8C4618288E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=79ff237c4674507afe422db07e45d8ab%7Cb6b0a3a7191a4384906c197d8122a421%7C913a02ed-703d-47d0-9455-a45e8027c450&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.24-09.40.40:253][524]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.10.24-09.40.40:254][524]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.10.24-09.40.40:255][524]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.10.24-09.40.40:262][524]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.10.24-09.40.40:262][524]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.24-09.40.40:263][524]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.24-09.40.40:264][524]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.24-09.40.40:270][524]LogExit: Exiting.
+[2019.10.24-09.40.40:303][524]Log file closed, 10/24/19 20:40:40
